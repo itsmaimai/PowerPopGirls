@@ -16,7 +16,7 @@ public class FirstAct {
         
         System.out.println("Vanessa Sagolili");
 	
-	 System.out.println("Ethyl Sotero");
+	 System.out.println("Ethyl Delos Santos Sotero");
     }
 
 }
