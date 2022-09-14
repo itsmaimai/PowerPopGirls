@@ -12,6 +12,5 @@ public class display {
         subtraction sub = new subtraction();
         sub.result();
      
-
     }
 }
