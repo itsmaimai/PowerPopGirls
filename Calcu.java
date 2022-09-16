@@ -23,7 +23,7 @@ public class Calcu {
                 System.out.println("The result is: " + sub(firstNum, secondNum));
                 break;
             case 3:
-                System.out.println("The result is: " + mult(firstNum, secondNum));
+                System.out.println("The result is: " + mul(firstNum, secondNum));
                 break;
             case 4:
                 System.out.println("The result is: " + div(firstNum, secondNum));
