@@ -4,7 +4,8 @@ import java.util.Scanner;
  *
  * @author Student.admin
  */
-public class addition extends display {
+public class addition extends display { 
+    
     void result(){
         Scanner sum = new Scanner(System.in);
         
