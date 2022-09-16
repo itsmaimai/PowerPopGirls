@@ -1,11 +1,11 @@
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 import java.util.Scanner;
 
-
-public class Calcu{
+public class Calcu {
     public static void main(String[] args) {
         Scanner scan= new Scanner(System.in);
         int firstNum,secondNum;
@@ -37,4 +37,9 @@ public class Calcu{
                 System.out.println("Error, Please see the choices provided");
         }
     }
+
+public static int sub(int firstNum, int secondNum){
+    int result = firstNum - secondNum;
+    return result;
+}
 }
